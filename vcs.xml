@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/sikakumasa/clion.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sikakumasa/sample_clion2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/CLionProjects/sample" />
+    <option name="cloneParentDir" value="$USER_HOME$/CLionProjects/sample_clion2" />
   </component>
 </application>
